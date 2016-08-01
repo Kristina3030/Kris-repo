@@ -1,1 +1,3 @@
 this is my apple! It's sweet!
+
+adding changes in kris-branch Apple
